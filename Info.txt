@@ -1,2 +1,3 @@
 "This is a text file"
-Check for the password: ajsdlfjsldfjlsjflsdj
+Check for the password: 
+Removed the password present inside the file
